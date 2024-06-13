@@ -11,6 +11,7 @@
 		7773098F2C1B721B008CFD27 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7773098E2C1B721B008CFD27 /* ContentView.swift */; };
 		777309912C1B721D008CFD27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 777309902C1B721D008CFD27 /* Assets.xcassets */; };
 		777309942C1B721D008CFD27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 777309932C1B721D008CFD27 /* Preview Assets.xcassets */; };
+		7773099B2C1B73D6008CFD27 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7773099A2C1B73D6008CFD27 /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7773098E2C1B721B008CFD27 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		777309902C1B721D008CFD27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		777309932C1B721D008CFD27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7773099A2C1B73D6008CFD27 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				7773098C2C1B721B008CFD27 /* yourForestDemoApp.swift */,
+				7773099A2C1B73D6008CFD27 /* TestView.swift */,
 				7773098E2C1B721B008CFD27 /* ContentView.swift */,
 				777309902C1B721D008CFD27 /* Assets.xcassets */,
 				777309922C1B721D008CFD27 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7773099B2C1B73D6008CFD27 /* TestView.swift in Sources */,
 				7773098F2C1B721B008CFD27 /* ContentView.swift in Sources */,
 				7773098D2C1B721B008CFD27 /* yourForestDemoApp.swift in Sources */,
 			);
